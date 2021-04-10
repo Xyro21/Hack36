@@ -1,4 +1,4 @@
-<h1 align="center">Hack36 Template Readme</h1>
+<h1 align="center">VAC360</h1>
 <p align="center">
 </p>
 
