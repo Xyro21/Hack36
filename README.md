@@ -5,21 +5,21 @@
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
 
-## Introduction:
+## 🖌️ Introduction:
   A platform where you can not only keep track of your vaccinations but also track your family's vaccinations , which include your beloved pets. This platform will protect you by keeping you informed about all the vaccinations for you and your family.
 
 A platform where you can get advice from best doctors in India and stay safe from life threatening diseases. Vaccinations are like long term investments ,once taken ,it keeps you safe for a long time. 
 
 An all in one platform for vaccination - vac360 
   
-## Demo Video Link:
+## 📹 Demo Video Link:
   <a href=""></a>
   
-## Presentation Link:
+## 📜 Presentation Link:
   <a href="https://drive.google.com/file/d/1C1YoSZFFYJvuZkJj4esn9_WxjTC_6zHR/view?usp=sharing"> PPT </a>
   
   
-## Table of Contents:
+## 🚴 Table of Contents:
 - Idea/Problem Statement
 - Proposed Solution
 - Implementation Details With Tech Stack
@@ -27,7 +27,7 @@ An all in one platform for vaccination - vac360
 - WOW Factor!!
 - Future Work
 
-## Technology Stack:
+## 🧑‍💻 Technology Stack:
   1) Figma
   2) Html,Css,Js
   3) Framework : Bootstrap
@@ -37,9 +37,9 @@ An all in one platform for vaccination - vac360
   7) Framer
   
 
-## Contributors:
+## ⛑️ Contributors:
 
-Team Name: XYRO
+Team Name: XYRO ⭐
 
 * [Awantika Nigam](https://github.com/awantika10)
 * [Shitiz Aggarwal](https://github.com/SHITIZ-AGGARWAL)
