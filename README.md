@@ -47,6 +47,6 @@ Team Name: XYRO ⭐
 * [Gaurav Chadha](https://github.com/Chadha93)
 
 
-### Made at:
+### 🕴️ Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
