@@ -32,15 +32,18 @@ An all in one platform for vaccination - vac360
   2) Html,Css,Js
   3) Framework : Bootstrap
   4) PHP
+  5) MYSQL
+  6) Anima
+  7) Framer
   
 
 ## Contributors:
 
 Team Name: XYRO
 
+* [Awantika Nigam](https://github.com/awantika10)
 * [Shitiz Aggarwal](https://github.com/SHITIZ-AGGARWAL)
 * [Aryan Bhardwaj](https://github.com/weebo-ary)
-* [Awantika Nigam](https://github.com/awantika10)
 * [Gaurav Chadha](https://github.com/Chadha93)
 
 
